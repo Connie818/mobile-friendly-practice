@@ -1,10 +1,12 @@
 * {
     width:auto;
     height: auto;
+    color: blue;
 }
 .right-float {
     font-size:4vmin;
     font: bold;
     text-align: right;
+
 
 }
