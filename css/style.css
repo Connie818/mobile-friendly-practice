@@ -5,10 +5,10 @@
 }
 
 body {
-    margin:20px;
+    margin:40px;
 }
 .right-float {
-    font-size:4vmin;
+    font-size:5vmin;
     font-weight: bold;
     text-align: right;
     
