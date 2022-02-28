@@ -2,15 +2,9 @@
     width:auto;
     height: auto;
 }
-
-.text h1{
-    text-align: center;
-    font-size: 3.5vmin;
-    color: chocolate;
-}
-
-.text p {
-    font-size: 20px;
-    color: blue;
+.right-float {
+    font-size:4vmin;
+    font: bold;
+    text-align: right;
 
 }
