@@ -3,10 +3,13 @@
     height: auto;
     color: rgb(147, 147, 206);
 }
+
+body {
+    margin:20px;
+}
 .right-float {
     font-size:4vmin;
-    font: bold;
+    font-weight: bold;
     text-align: right;
-
-
+    
 }
