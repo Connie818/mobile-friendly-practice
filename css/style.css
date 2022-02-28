@@ -1,11 +1,15 @@
 * {
     width:auto;
     height: auto;
-    color: blueviolet;
+<<<<<<< HEAD
+=======
+    color: blue;
+>>>>>>> take-home
 }
 .right-float {
     font-size:4vmin;
     font: bold;
     text-align: right;
+
 
 }
